@@ -1,0 +1,46 @@
+.style-logo {
+  padding-left: 25px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.style-nama {
+  font-size: 15px;
+  margin-right: 800px;
+  font-family: sans-serif;
+}
+
+.container-fluid {
+  margin: -15px;
+  height: 80px;
+  background-color: rgb(71, 68, 55);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.style-h1 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: monospace;
+}
+.style-h3 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: monospace;
+}
+
+.p-3 {
+  margin: 50px;
+  font-size: 40px;
+  font-weight: 750;
+}
+
+.style-button {
+  margin-top: 400px;
+  border-color: rgb(32, 32, 32);
+  border-radius: 15px;
+  background-color: rgb(236, 10, 55);
+  align-items: center;
+  --bs-btn-hover-bg: #b64d4d;
+  --bs-btn-active-border-color: #05110c;
+  width: 378px;
+}

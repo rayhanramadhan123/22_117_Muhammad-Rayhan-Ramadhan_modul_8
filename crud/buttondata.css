@@ -1,0 +1,11 @@
+.style-logout {
+  text-decoration: none;
+  color: white;
+}
+
+.style-button {
+  text-align: center;
+  margin-top: 250px;
+  width: 100%;
+  border-radius: 50px;
+}

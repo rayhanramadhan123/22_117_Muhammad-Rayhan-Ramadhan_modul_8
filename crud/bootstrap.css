@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.style-logo {
+  font-size: 40px;
+  font-weight: bolder;
+  color: white;
+  padding-left: 30px;
+}
+
+.style-tulisan {
+  color: white;
+
+  padding: 20px;
+}
+
+.style-jarak {
+  margin-top: 100px;
+}
+
+.style-button {
+  width: 100%;
+  margin-top: 700px;
+  color: white;
+  border-radius: 40px;
+}
+
+.style-color {
+  color: black;
+}
+
+.style-warna {
+  color: white;
+}
+
+.style-color1 {
+  color: black;
+  font-weight: bolder;
+}
+
+.style-judul {
+  color: black;
+  font-weight: bold;
+}
